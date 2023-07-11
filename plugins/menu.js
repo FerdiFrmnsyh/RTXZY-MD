@@ -166,8 +166,8 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/93cc9fbd431f63a83aabd.jpg',
-                        sourceUrl: 'https://api.botcahx.live'
+                        thumbnailUrl: 'https://telegra.ph/file/18a98a00c463347f9b140.png',
+                        sourceUrl: 'https:// about.me/ferdi.frmnsyh'
                     }
                 }, mentions: [m.sender]
 }}, {})
