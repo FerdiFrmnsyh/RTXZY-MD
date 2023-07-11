@@ -39,7 +39,7 @@ let handler = async (m, { conn }) => {
 handler.help = ['sticker']
 handler.tags = ['sticker']
 handler.command = /^(stiker|s|sticker)$/i
-handler.limit = 10
+handler.limit = 1
 module.exports = handler
 
 const isUrl = (text) => {
